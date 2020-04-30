@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1585356196 source:c:\users\tj\desktop\snake chess\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
